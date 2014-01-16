@@ -40,7 +40,7 @@ $(document).ready(function(){
 		xmlhttp.send();
 	}
 	var xmlhttp;
-	var isAnimation=true;
+	var isAnimation=false;
 	if (window.XMLHttpRequest){// code for IE7+, Firefox, Chrome, Opera, Safari
 		xmlhttp=new XMLHttpRequest();
 	}else{// code for IE6, IE5
