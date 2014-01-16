@@ -209,6 +209,23 @@ $page="";		if(array_key_exists("page",$_GET))$page=$_GET["page"];
 		</div>
 	</article>
 <?php endif;?>
+<?php if($page=="about"||$page=="all"):?>
+	<article>
+		<h1>關於我</h1>
+		<p>您好，我是 Jimbow ，本名曾群展。
+		<p>就讀銘傳大學，數位媒體設計學系。現職某公司的網頁前端工程師。
+		<p>歡迎各種合作機會，最近在做的事都是遊戲相關，擅長使用的遊戲引擎是 Unity3D、GameMaker。雖然 app 熱潮似乎已經搭不上了，但仍然想玩玩看 App 。
+		<h2>聯絡方式</h2>
+		<address>
+			<ul>
+				<li><dfn>Email</dfn>：<span>adeathjohn 小老鼠 gmail 打抗</span>
+				<li><dfn>Facebook</dfn>：<span><a href="https://www.facebook.com/adeathjohn">https://www.facebook.com/adeathjohn</a></span>
+				<li><dfn>Blog</dfn>：<a href="http://trnth.blogspot.tw/">http://trnth.blogspot.tw/</a>
+				<li><dfn>LinkedIn</dfn>：<a href="http://www.linkedin.com/pub/jimbow-zheng/88/176/581">http://www.linkedin.com/pub/jimbow-zheng/88/176/581</a>
+			</ul>
+		</address>
+	</article>
+<?php endif;?>
 	<header id="header">
 		<center>
 			<div>
@@ -223,12 +240,13 @@ $page="";		if(array_key_exists("page",$_GET))$page=$_GET["page"];
 				<ul id="buttons">
 					<li><a id="bCatalogue" href="?page=aCatalogue">總覽</a>
 					<li><a id="bPcGame" href="?page=aPcGame">PC遊戲</a>
-					<li><a id="bApp" href="?page=aApp">App電子書</a>
+					<li><a id="bApp" href="?page=aApp">App</a>
 					<li><a id="bInsArt" href="?page=aInsArt">互動裝置</a>
 					<li><a id="bIllustration" href="?page=aIllustration">2D插圖</a>
-					<li><a id="bSprites" href="?page=aSprites">遊戲元件</a>
-					<li><a id="bModeling" href="?page=aModeling">3D模型</a>
+					<li><a id="bSprites" href="?page=aSprites">美術元件</a>
+					<li><a id="bModeling" href="?page=aModeling">3D Art</a>
 					<li><a id="bModeling" href="?page=all">展開</a>
+					<li><a id="about" href="?page=about">關於</a>
 					<!--
 					<li><a href="#nogo">UI設計</a>
 					-->
