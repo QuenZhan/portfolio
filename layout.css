@@ -1,0 +1,65 @@
+#aCatalogue img{
+	max-width:640px;
+}
+#outerWrapper{
+	padding:2px;
+	display:none \9; /*IE6、IE7、IE8 hack*/
+}
+header>center,#outerWrapper>*{
+	max-width:645px;
+	margin:0 auto;
+	text-align:center;
+}
+header>center,#header>center{
+	text-align:left;
+}
+#outerWrapper>article{
+	padding:100px 0 0 0;
+}
+header,#header{
+	background:#fff;
+	position:fixed;
+	width:100%;
+	max-width:100%;
+	top:0px;
+	padding:0;
+	border:0;
+	height:80px;
+}
+header>center h1,header>center p{
+	display:inline-block;
+	margin:0;
+}
+header>center>div{
+	position:relative;
+}
+header>center address{
+	display:inline-block;
+	position:absolute;
+	text-align:right;
+	right:0;
+	top:0;
+	padding-right:2px;
+	font-size:x-small;
+}
+nav ul{
+	padding:0;
+	margin:0 0 16px 0;
+}
+nav li{
+	display:inline-block;
+	border:2px solid #fff;
+	cursor:pointer;
+	padding:2px;
+	margin:0 15px 0 0;
+}
+nav li:hover{
+	border:2px dashed #333;
+}
+nav li:last-child{
+	margin:0;
+}
+.column{
+	display:inline-block;
+	vertical-align:top;
+}
