@@ -45,23 +45,5 @@ $(document).ready(function(){
 		xmlhttp=new XMLHttpRequest();
 	}else{// code for IE6, IE5
 		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-	}
-	// $("#outerWrapper>article").hide();
-	if(isAnimation){
-		$("#outerWrapper>article").slideUp()
-			.first().slideDown();
-	}
-	$("#buttons a").each(function(index,e){
-		$(e).click(function(){
-			if(!isAnimation)return;
-			$("#outerWrapper>article").slideUp()
-			$($(e).attr("href")).slideDown()
-		});
-	})
-	$("#animation").click(function(){
-		isAnimation=$(this).prop("checked")
-		$("#outerWrapper>article").show()
-	})
-	$("#animation").prop("checked",isAnimation);
-	// getArticle("aPcGame");
+	} 
 })
