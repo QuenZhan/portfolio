@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang='zh-TW' class="han-la">
+<head>
+	<title>Jimbow 作品集</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+    <link href="han/han.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<link href='layout.css' rel='stylesheet'/>
+	<meta name="description" content="TNRTH作品集">
+	<meta name="keywords" content="HTML5,CSS3,JavaScript,3D,autodesk maya,illustration,unity3d,game sprites,game design">
+	<meta name="author" content="TRNTH">
+	<meta property="og:url" content="" />
+	<meta property="og:title" content="Jimbow 作品集" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="/data/cg/CG_ep1_0.jpg" />
+	<meta property="og:description" content="個人作品集" />
+	<meta property="og:site_name" content="TRNTH 個人作品集" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+body{
+font-size:16px;
+}
+html:lang(zh) figure.thumbnail{
+margin:0;
+}
+article p,.text{
+  max-width:40em;
+  margin-left:auto;
+  margin-right:auto;
+}
+article h1,article h2,article h3{
+  text-align:center;
+}
+article h1{
+  margin-top:2em;
+  margin-bottom:2em;
+
+}
+  </style>
+		<!-- Start VisualLightBox.com HEAD section -->
+
+		<link rel="stylesheet" href="index - 複製_files/vlb_files0/vlightbox0.css" type="text/css" />
+
+		<link rel="stylesheet" href="index - 複製_files/vlb_files0/visuallightbox.css" type="text/css" media="screen" />
+<script src="index - 複製_files/vlb_engine/jquery.min.js" type="text/javascript"></script>
+
+		<script src="index - 複製_files/vlb_engine/visuallightbox.js" type="text/javascript"></script>
+
+		<!-- End VisualLightBox.com HEAD section -->
+
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="index_files/vlb_files1/vlightbox1.css" type="text/css" />
+		<link rel="stylesheet" href="index_files/vlb_files1/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="index_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="index_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="index_files/vlb_files2/vlightbox2.css" type="text/css" />
+		<link rel="stylesheet" href="index_files/vlb_files2/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="index_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="index_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="index_files/vlb_files3/vlightbox3.css" type="text/css" />
+		<link rel="stylesheet" href="index_files/vlb_files3/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="index_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="index_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+		<!-- Start VisualLightBox.com HEAD section -->
+		<link rel="stylesheet" href="index_files/vlb_files4/vlightbox4.css" type="text/css" />
+		<link rel="stylesheet" href="index_files/vlb_files4/visuallightbox.css" type="text/css" media="screen" />
+<!--script src="index_files/vlb_engine/jquery.min.js" type="text/javascript"></script-->
+		<!--script src="index_files/vlb_engine/visuallightbox.js" type="text/javascript"></script-->
+		<!-- End VisualLightBox.com HEAD section -->
+</head><body lang='zh-TW' class=''>
+
+<div class="jumbotron text-left">
+    <div class='container'>
+          <h1>TRNTH <small></small></h1>
+          <p class='lead'>Jimbow 個人作品集</p>
+    </div>
+</div>
+
+<article id='about' class='container text-center'>
+    <h1>關於</h1>
+    <p>您好，我是 Jimbow，讀音是金箔，本名曾群展。</p>
+    <p>畢業於銘傳大學，數位媒體設計學系。現職網頁前端工程師。</p>
+    <p>特技是思考解決問題的方法而忘記吃飯；相信創造力來自豐富生活的體驗，慾望壓過理性的人則稱之為奴隸</p>
+</article>
+
+<article id='works' class='container text-'>
+    <h1>製作過的作品們</h1>
+    <div class="media-list_ row">
+		<div class='col-md-4' >
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="http://images.plurk.com/u6pQ-2Zt5SIHfom6CpmMf0bUTQp.jpg" alt="skill" />
+				<figcaption class="caption">
+					<h3>精靈守護戰</h3>
+					  <p>Indie Speed Run 48小時生產之動作遊戲；ISR參賽作品</p>
+					  <p><a href='http://igda-tw.kktix.cc/'>IGDA Taiwan</a>所主辦之 Game Jam，獲得指定題目之後，在48小時內製作符合主題與限制條件的遊戲，相當有趣。本作品抽到的題目是：魚叉槍與殖民。<a href='http://igda-tw.kktix.cc/events/isr2013tp'>本活動詳細說明</a></p>
+					  <p>本作品個人負責程式部分，使用 Unity 3D 引擎</p>
+
+				</figcaption>
+			</div>
+		</figure>
+		<div class="clearfix visible-sm"></div>
+		<div class='col-md-4'>
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="data/b0007.jpg" alt="skill" />
+				<figcaption class="caption">
+					<h3>愛なきバケモノハンター～負ければ触手に犯される～</h3>
+					  <a href='http://www.youtube.com/watch?v=x90VLVgjMfA'>Game Play</a><small>youtube</small>
+					  <p>成人向PC動作遊戲；Unity3D</p>
+					<p>團隊合作的商業作品。此專案中本人負責程式腳本、背景美術、粒子特效、介面、音效、角色動畫調整部份，使用引擎是unity3D。本作品在DLSite販賣：<a href='http://www.dlsite.com/maniax/work/=/product_id/RJ118890'>連結</a><small>十八禁成人向</small></p>
+				</figcaption>
+			</figure>
+		</div>
+		<div class='col-md-4'>
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="data/cg/CG_ep1_0.jpg" alt="skill" />
+				<figcaption class="caption">
+					<h3>劇情插圖</h3>
+					<p>RPG遊戲之劇情插圖</p>
+					<p>為SRPG遊戲：<a href='http://ooxxstudio.web.fc2.com/BATM/index.html'>月哮：銀龍之役</a>，等所繪製的一系列劇情插圖。</pp>
+				</figcaption>
+			</figure>
+		</div>
+	</div>
+	<div class="media-list_ row">
+		<div class='col-md-4'>
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="data/toy0004.png" alt="work" />
+				<figcaption class="caption">
+					<h3>玩具實驗室</h3>
+          <p>iPad 互動電子書。APP STAR高手爭霸戰第三名</p>
+          <ul>
+            <li><a href="http://www.jtv.com.tw/AppStar/index_introduction.php?no=78">App Star 高手爭霸戰</a>活動網頁
+            <li><a href="https://itunes.apple.com/tw/app/shi-yan-hao-hao-wan!/id507070651?mt=8">iTunes 下載頁面</a>
+            <li><a href="http://youtu.be/_Tt_9HBSEQM">產品介紹影片</a>
+          </ul>
+					<p>在校期間參與學校的產學合作企劃，本人負責美術元件、角色動態設計、機關設計、畫面後製等部份。此作品獲得App Star 高手爭霸戰第三名。並且在iTunes上販售。使用引擎為 cocos2D</p>
+				</figcaption>
+			</figure>
+		</div>
+		<div class='col-md-4'>
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="data/mushipool/b0003.jpg" alt="work" />
+				<figcaption class="caption">
+					<h3>虫池</h3>
+					<a href='http://youtu.be/6SNA6DufOTk'>Game Play</a><small>youtube</small>
+					<p>互動投影裝置藝術</p>
+					<p>在校期間投影互動藝術裝置的實驗作品，負責角色動態、元件繪製。使用引擎為Game Maker7</p>
+				</figcaption>
+			</figure>
+		</div>
+		<div class='col-md-4'>
+			<figure class="thumbnail" href='#'>
+				<img class='img-responsive' src="data/cwhistleLovie/b0001.jpg" alt="work" />
+				<figcaption class="caption">
+					<h3>白領地記事</h3>
+          <a href='http://youtu.be/gMLwQrQKxGs'>Game Play</a><small>youtube</small>
+
+          <p>PC動作遊戲，Unity3D</p>
+					<p>畢業專題。美術程式音效各部份皆為獨立完成：包括粒子特效、角色動作、rigging、建模、貼圖。使用引擎是unity3D
+</p>
+				</figcaption>
+			</figure>
+			  
+		</div>
+		
+    </div>
+
+</article>
+
+<article class='container'>
+	<h1>精靈守護戰</h1>
+	<p>Indie Speed Run 48小時生產之動作遊戲；ISR參賽作品</p>
+	<p><a href='http://igda-tw.kktix.cc/' target='_blank'>IGDA Taiwan</a>所主辦之 Game Jam，獲得指定題目之後，在48小時內製作符合主題與限制條件的遊戲，相當有趣。本作品抽到的題目是：魚叉槍與殖民。<a href='http://igda-tw.kktix.cc/events/isr2013tp' target='_blank'>本活動詳細說明</a></p>
+	<p>本作品個人負責程式部分，使用 Unity 3D 引擎</p>
+	<div id="vlightbox0" class='text-center'>
+
+	<a class="vlightbox0" href="index - 複製_files/vlb_images0/u6pq1mxfuvvvqwvvitycceqpui.jpg" title="標頭"><img src="index - 複製_files/vlb_thumbnails0/u6pq1mxfuvvvqwvvitycceqpui.jpg" alt="標頭"/>標頭</a>
+<a class="vlightbox0" href="index - 複製_files/vlb_images0/u6pq2xjugmwgcybjfzj9tj6ztr.jpg" title="遊戲場景"><img src="index - 複製_files/vlb_thumbnails0/u6pq2xjugmwgcybjfzj9tj6ztr.jpg" alt="遊戲場景"/>遊戲場景</a>
+<a class="vlightbox0" href="index - 複製_files/vlb_images0/u6pq2zt5sihfom6cpmmf0butqp.jpg" title="遊戲截圖"><img src="index - 複製_files/vlb_thumbnails0/u6pq2zt5sihfom6cpmmf0butqp.jpg" alt="遊戲截圖"/>遊戲截圖</a>
+<a class="vlightbox0" href="index - 複製_files/vlb_images0/u6pqgrdfel3hnq0kbus1491qw.jpg" title="遊戲截圖"><img src="index - 複製_files/vlb_thumbnails0/u6pqgrdfel3hnq0kbus1491qw.jpg" alt="遊戲截圖"/>遊戲截圖</a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox overflow auto</a>by VisualLightBox.com v5.9</span>
+
+	</div>
+
+	<script src="index - 複製_files/vlb_engine/thumbscript0.js" type="text/javascript"></script>
+
+	<script src="index - 複製_files/vlb_engine/vlbdata0.js" type="text/javascript"></script>
+
+	<!-- End VisualLightBox.com BODY section -->
+</article>	<!-- Start VisualLightBox.com BODY section id=0 -->
+
+<article class='container'>
+	<h1>愛なきバケモノハンター～負ければ触手に犯される～</h1>
+	<section class='text'>
+		<a href='http://youtu.be/g9VZAc3dbfo' target='_blank'>Game Play</a><small>youtube</small>
+		<p>成人向PC動作遊戲；Unity3D</p>
+		<p>團隊合作的商業作品。此專案中本人負責程式腳本、背景美術、粒子特效、介面、音效、角色動畫調整部份，使用引擎是unity3D。本作品在DLSite販賣：<a href='http://www.dlsite.com/maniax/work/=/product_id/RJ118890'>連結</a><small>十八禁成人向</small></p>
+	</section>
+</article>	<!-- Start VisualLightBox.com BODY section id=1 -->
+	<div id="vlightbox1">
+	<a class="vlightbox1" href="index_files/vlb_images1/b0002.jpg" title="b0002"><img src="index_files/vlb_thumbnails1/b0002.jpg" alt="b0002"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0003.jpg" title="b0003"><img src="index_files/vlb_thumbnails1/b0003.jpg" alt="b0003"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0004.jpg" title="b0004"><img src="index_files/vlb_thumbnails1/b0004.jpg" alt="b0004"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0005.jpg" title="b0005"><img src="index_files/vlb_thumbnails1/b0005.jpg" alt="b0005"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0006.jpg" title="b0006"><img src="index_files/vlb_thumbnails1/b0006.jpg" alt="b0006"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0007.jpg" title="b0007"><img src="index_files/vlb_thumbnails1/b0007.jpg" alt="b0007"/></a>
+<a class="vlightbox1" href="index_files/vlb_images1/b0001.jpg" title="b0001"><img src="index_files/vlb_thumbnails1/b0001.jpg" alt="b0001"/></a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox overflow auto</a>by VisualLightBox.com v5.9</span>
+	</div>
+	<script src="index_files/vlb_engine/thumbscript1.js" type="text/javascript"></script>
+	<script src="index_files/vlb_engine/vlbdata1.js" type="text/javascript"></script>
+	<!-- End VisualLightBox.com BODY section -->
+
+
+<article class='container'>
+	<h1>插畫、劇情插圖</h1>
+	<p>RPG遊戲之劇情插圖</p>
+	<p>為SRPG遊戲：<a target='_blank' href='http://ooxxstudio.web.fc2.com/BATM/index.html'>月哮：銀龍之役</a>，等所繪製的一系列劇情插圖。	<!-- Start VisualLightBox.com BODY section id=2 -->
+	<div id="vlightbox2">
+	<a class="vlightbox2" href="index_files/vlb_images2/20100712_mozarc_notitle.jpg" title="20100712_mozarc_notitle"><img src="index_files/vlb_thumbnails2/20100712_mozarc_notitle.jpg" alt="20100712_mozarc_notitle"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/20101012_fseason.jpg" title="20101012_fSeason"><img src="index_files/vlb_thumbnails2/20101012_fseason.jpg" alt="20101012_fSeason"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/cg_ep1_0.jpg" title="CG_ep1_0"><img src="index_files/vlb_thumbnails2/cg_ep1_0.jpg" alt="CG_ep1_0"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/cg_ep2_2_red_moona.jpg" title="CG_ep2_2_red_moonA"><img src="index_files/vlb_thumbnails2/cg_ep2_2_red_moona.jpg" alt="CG_ep2_2_red_moonA"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/cg_ep2_8_aztec_karmio.jpg" title="CG_ep2_8_aztec_karmio"><img src="index_files/vlb_thumbnails2/cg_ep2_8_aztec_karmio.jpg" alt="CG_ep2_8_aztec_karmio"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/small_r18.jpg" title="small_r18"><img src="index_files/vlb_thumbnails2/small_r18.jpg" alt="small_r18"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/sucubus.jpg" title="sucubus"><img src="index_files/vlb_thumbnails2/sucubus.jpg" alt="sucubus"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/ynmer.jpg" title="ynmer"><img src="index_files/vlb_thumbnails2/ynmer.jpg" alt="ynmer"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/640px.jpg" title="640px"><img src="index_files/vlb_thumbnails2/640px.jpg" alt="640px"/></a>
+<a class="vlightbox2" href="index_files/vlb_images2/20100707_b_red_regular_800.jpg" title="20100707_b_red_regular_800"><img src="index_files/vlb_thumbnails2/20100707_b_red_regular_800.jpg" alt="20100707_b_red_regular_800"/></a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox overflow auto</a>by VisualLightBox.com v5.9</span>
+	</div>
+	<script src="index_files/vlb_engine/thumbscript2.js" type="text/javascript"></script>
+	<script src="index_files/vlb_engine/vlbdata2.js" type="text/javascript"></script>
+	<!-- End VisualLightBox.com BODY section -->
+</pp>
+</article>
+
+<article class='container'>
+	<h1>玩具實驗室</h1>
+	<p>iPad 互動電子書。APP STAR高手爭霸戰第三名</p>
+	<ul class='text'>
+		<li><a href="http://www.jtv.com.tw/AppStar/index_introduction.php?no=78">App Star 高手爭霸戰</a>活動網頁
+		<li><a href="https://itunes.apple.com/tw/app/shi-yan-hao-hao-wan!/id507070651?mt=8">iTunes 下載頁面</a>
+		<li><a href="http://youtu.be/_Tt_9HBSEQM">產品介紹影片</a>
+	</ul>
+	<p>在校期間參與學校的產學合作企劃，本人負責美術元件、角色動態設計、機關設計、畫面後製等部份。此作品獲得App Star 高手爭霸戰第三名。並且在iTunes上販售。使用引擎為 cocos2D</p>
+</article>	<!-- Start VisualLightBox.com BODY section id=3 -->
+	<div id="vlightbox3">
+	<a class="vlightbox3" href="index_files/vlb_images3/toy0001.jpg" title="toy0001"><img src="index_files/vlb_thumbnails3/toy0001.jpg" alt="toy0001"/></a>
+<a class="vlightbox3" href="index_files/vlb_images3/toy0002.jpg" title="toy0002"><img src="index_files/vlb_thumbnails3/toy0002.jpg" alt="toy0002"/></a>
+<a class="vlightbox3" href="index_files/vlb_images3/toy0003.jpg" title="toy0003"><img src="index_files/vlb_thumbnails3/toy0003.jpg" alt="toy0003"/></a>
+<a class="vlightbox3" href="index_files/vlb_images3/toy0004.jpg" title="toy0004"><img src="index_files/vlb_thumbnails3/toy0004.jpg" alt="toy0004"/></a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox overflow auto</a>by VisualLightBox.com v5.9</span>
+	</div>
+	<script src="index_files/vlb_engine/thumbscript3.js" type="text/javascript"></script>
+	<script src="index_files/vlb_engine/vlbdata3.js" type="text/javascript"></script>
+	<!-- End VisualLightBox.com BODY section -->
+
+
+<article class='container'>
+	<h1>虫池</h1>
+	<aside class='text'>
+		<a href='http://youtu.be/6SNA6DufOTk'>Game Play</a><small>youtube</small>
+	</aside>
+	<p>互動投影裝置藝術</p>
+	<p>在校期間投影互動藝術裝置的實驗作品，負責角色動態、元件繪製。使用引擎為Game Maker7</p>
+
+</article>	<!-- Start VisualLightBox.com BODY section id=4 -->
+	<div id="vlightbox4">
+	<a class="vlightbox4" href="index_files/vlb_images4/logo_final.jpg" title="logo_final"><img src="index_files/vlb_thumbnails4/logo_final.jpg" alt="logo_final"/></a>
+<a class="vlightbox4" href="index_files/vlb_images4/youtube.jpg" title="youtube"><img src="index_files/vlb_thumbnails4/youtube.jpg" alt="youtube"/></a>
+<a class="vlightbox4" href="index_files/vlb_images4/b0001.jpg" title="b0001"><img src="index_files/vlb_thumbnails4/b0001.jpg" alt="b0001"/></a>
+<a class="vlightbox4" href="index_files/vlb_images4/b0002.jpg" title="b0002"><img src="index_files/vlb_thumbnails4/b0002.jpg" alt="b0002"/></a>
+<a class="vlightbox4" href="index_files/vlb_images4/b0003.jpg" title="b0003"><img src="index_files/vlb_thumbnails4/b0003.jpg" alt="b0003"/></a>
+<a class="vlightbox4" href="index_files/vlb_images4/b0004.jpg" title="b0004"><img src="index_files/vlb_thumbnails4/b0004.jpg" alt="b0004"/></a>
+<span class="vlb"><a href="http://visuallightbox.com">lightbox overflow auto</a>by VisualLightBox.com v5.9</span>
+	</div>
+	<script src="index_files/vlb_engine/thumbscript4.js" type="text/javascript"></script>
+	<script src="index_files/vlb_engine/vlbdata4.js" type="text/javascript"></script>
+	<!-- End VisualLightBox.com BODY section -->
+
+
+<article class='container'>
+	<h1>白領地記事</h1>
+	<aside class='text'>
+		<a href='http://youtu.be/gMLwQrQKxGs'>Game Play</a><small>youtube</small>
+	</aside>
+	<p>PC動作遊戲，Unity3D</p>
+	<p>畢業專題。美術程式音效各部份皆為獨立完成：包括粒子特效、角色動作、rigging、建模、貼圖。使用引擎是unity3D</p>
+</article>
+
+
+<article id='skills' class='container'>
+    <h1>熟悉技能</h1>
+    <ul class='row list-inline' style='padding:0'>
+
+        <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon00.jpg" alt="skill">
+              <div class="caption">
+                <h3>插畫</h3>
+                <p>喜歡線條的力量，豐富的顏色：小說插圖，遊戲劇情插畫</p>
+              </div>
+            </div>
+        </li>
+		<div class="clearfix visible-xs"></div>
+         <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon01.jpg" alt="skill">
+              <div class="caption">
+                <h3>3D模型</h3>
+                <p>大多製作遊戲用低面模型，最喜歡 Rigging ，最討厭拆 UV ： Autodesk Maya、DeepPain3D、Zbrush</p>
+              </div>
+            </div>
+        </li>
+		<div class="clearfix visible-xs"></div>
+         <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon02.jpg" alt="skill">
+              <div class="caption">
+                <h3>遊戲美術</h3>
+                <p>已達到效果，表現力度為核心，注重雪中送炭，而非錦上添花：遊戲特效、遊戲元件、關節動畫、築格動畫</p>
+              </div>
+            </div>
+        </li>
+		<div class="clearfix visible-xs"></div>
+        <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon03.jpg" alt="skill">
+              <div class="caption">
+                <h3>網頁前端</h3>
+                <p>以遵守 W3C 規範為樂趣，以更簡潔乾淨親切的原始碼為目標；恨IE6</p>
+                <p>HTML 5 , CSS3 , SEO , jQuery , Bootstrap </p>
+              </div>
+            </div>
+        </li>
+        <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon03.jpg" alt="skill">
+              <div class="caption">
+                <h3>Unity 3D</h3>
+                <p>Unity 是個強大的遊戲引擎，但不只拿來做遊戲，用來作為跨平台 IOS , Android , Windows Phone 的 APP 開發軟體也是非常好用</p>
+                <p>Parse Unity , Photon Cloud , Playmaker , NGUI </p>
+              </div>
+            </div>
+        </li>
+
+        <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon03.jpg" alt="skill">
+              <div class="caption">
+                <h3>程式語言</h3>
+                <p>語言只是一個手段與工具，如果你的目的必須要用這個語言，那就透過這個語言來達成。</p>
+               
+              </div>
+            </div>
+        </li>
+        <li class='col-md-3'>
+            <div class="thumbnail">
+              <img class='img-responsive' src="data/icon03.jpg" alt="skill">
+              <div class="caption">
+                <h3>文字撰寫</h3>
+                <p>很多程式人覺得寫說明文件，寫表格時程表是個很痛苦的事；而我覺得歸納整理，並追求極致的精簡、清晰，是一件強迫症般的有趣</p>
+                <p>比起口說，本人更喜歡文字的表達，對於事物的想法與分析，很多場合是需要慎重考量的，也許是因為個人即時反應的遲鈍，能夠仔細揀選、沈澱、並深埋情感的文字，更得到我的重視。</p>
+                <p>規格書、時程表、企劃案、小說、散文、劇本</p>
+              </div>
+            </div>
+        </li>
+
+    </ul>
+</article>
+
+<article id='languages' class='container'>
+    <h1>稱手的語言</h1>
+    <dl class='dl-horizontal text'>
+      <dt>C#</dt> 
+      <dd>偏靜態，用來寫架構清楚明確。Unity 3D , MSDN , Visual Stuido。</dd>
+       <dt>Ruby</dt> 
+      <dd>酷，寫過最爽的語言 。RGSS , Rail on ruby。</dd>
+       <dt>Python</dt> 
+      <dd>用來製作 Maya 的一些工具與效果。Maya</dd>
+       <dt>Javascripot</dt> 
+      <dd>最常使用的，搭配 html 可以作很多小工具。Unity 3D , Web frontend 。</dd>
+       <dt>PHP</dt> 
+      <dd>覺得這很奇怪，但是不得不用。Web frontend</dd>
+       <dt>Object C</dt> 
+      <dd>最奇怪的傢伙。IOS app , Cocos2D</dd>
+  </dl>
+</article>
+
+
+<article id='contact' class='container'>
+  <h1>聯繫方式</h1>
+  <p>歡迎各式合作機會，如果可以本人的微薄之力可以幫上點什麼忙，那是再好不過的:D。</p>
+  <adress class='text-left center-block'>
+      <p>Email : adeathjohn 小老鼠 gmail.com</p>
+      <p>LinkedIn : <a target='_blank' href='http://www.linkedin.com/pub/jimbow-zheng/88/176/581'>http://www.linkedin.com/pub/jimbow-zheng/88/176/581</a> </p>
+      <p>FB : <a href='https://www.facebook.com/trnth' target='_blank'>https://www.facebook.com/trnth</a> </p>
+  </adress>
+</article>
+<footer class='text-center jumbotron' style='margin-bottom:0'>
+  <p>©2014 TrntH, All Rights Reserved.</p>
+</footer>
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">TRNTH</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <p class='navbar-text'>Jimbow 的個人作品集</p>
+
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active"><a href="#about">About</a></li>
+        <li><a href="#works">Works</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="http://blog.trnth.org/">Blog</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="jquery.min.js"></script>
+<script src="jquery.lazyload.js" type="text/javascript"></script>
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/carousel.js"></script>
+<script>
+$('.navbar-nav li a ').click(function(){
+   $('.navbar-nav li').removeClass('active');
+   $(this).parent('li').addClass('active');
+})
+</script>
+</body></html>
