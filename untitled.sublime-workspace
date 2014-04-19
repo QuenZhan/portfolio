@@ -1,0 +1,227 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"is",
+				"isHover"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jimbow/Dropbox/Portfolio/index.html",
+		"/Users/Jimbow/twly-voter-guide/committees/views.py",
+		"/Users/Jimbow/twly-voter-guide/ly/views.py",
+		"/Users/Jimbow/twly-voter-guide/committees/models.py",
+		"/Users/Jimbow/twly-voter-guide/g0v.json",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/widget_header.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/style_overrite.css",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_video.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_videosNew.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_videosHot.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_videos.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_channel.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_channels.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_ebooks.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_album.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/innerPage_competitions.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/widget_footer.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/web/index.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/work/index.html",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/work/index.php",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/work/style_overrite.css",
+		"/Users/Jimbow/Dropbox/_Tunnel/portfolio/index.html",
+		"/Users/Jimbow/Dropbox/CE_TaipeiGov/footage/icreateiveTemplate/index-video.html",
+		"/Users/Jimbow/Dropbox/Treee/index.php",
+		"/Users/Jimbow/Dropbox/Treee/README.md",
+		"/Users/Jimbow/Dropbox/TheGhost/first.md",
+		"/Users/Jimbow/Dropbox/TheGhost/README.md",
+		"/Users/Jimbow/Dropbox/TheGhost/002",
+		"/Users/Jimbow/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Jimbow/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Jimbow/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn",
+			"col-md-3",
+			"isUp",
+			"<small>瀏覽次數：9000次</small>",
+			"<small>瀏覽次數：9000次</small>\n<small>瀏覽次數：9000次</small>",
+			"holder.js/430x230",
+			"430x130",
+			"230x130",
+			"230x180",
+			"PORTFOLIO",
+			"ul",
+			"string",
+			"studenet",
+			"private",
+			"public",
+			"			\n",
+			"			",
+			"quote"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"col-md-3 col-sm-6",
+			"<small class='views'>瀏覽次數：9000次</small>",
+			"holder.js/430x230/auto",
+			"430x230",
+			"430x130",
+			"230x130"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gulp",
+				"gulpfile.ls"
+			],
+			[
+				"morevi",
+				"innerPage_channelMoreVideo.php"
+			],
+			[
+				"morea",
+				"innerPage_channelMoreAlbum.php"
+			],
+			[
+				"over",
+				"style_overrite.css"
+			],
+			[
+				"header",
+				"widget_header.php"
+			],
+			[
+				"channel",
+				"innerPage_channel.php"
+			],
+			[
+				"channle",
+				"innerPage_channelMoreEbook.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
